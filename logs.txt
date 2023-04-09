@@ -1,0 +1,62 @@
+User@DESKTOP-HLQEGJJ MINGW64 ~/Desktop/SI_2023_lab1_205024 (master)
+$ git log
+commit 63d4244bf6aa84d208c18b8579663e6dcc2c1bf6 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:06:28 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 213c91dc053ebdc5137321bed1916c442fc0c945
+Merge: 6d10548 573f440
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:07:34 2023 +0200
+
+    "Fix bug2"
+
+commit 573f4409787310021aa9082375b77483c12d8905 (origin/bug2, bug2)
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:05:29 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 6d10548b840d51e578845165cb9201ef944711a1 (origin/bug1, bug1)
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:04:18 2023 +0200
+:...skipping...
+commit 63d4244bf6aa84d208c18b8579663e6dcc2c1bf6 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:06:28 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 213c91dc053ebdc5137321bed1916c442fc0c945
+Merge: 6d10548 573f440
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:07:34 2023 +0200
+
+    "Fix bug2"
+
+commit 573f4409787310021aa9082375b77483c12d8905 (origin/bug2, bug2)
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:05:29 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 6d10548b840d51e578845165cb9201ef944711a1 (origin/bug1, bug1)
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:04:18 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 66bdf2393c9b466e8f69c105f61247e13b6b1ce2
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:02:45 2023 +0200
+
+    Add java class
+
+commit bca7bfc98942f4bcbcf14e148f53bc8474e2a211
+Author: ValerijaUni <valerija.zlateva@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:01:30 2023 +0200
+
+    Initial commit
+~
